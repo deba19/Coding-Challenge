@@ -26,6 +26,7 @@ Write the following command after opening terminal in project folder
 
 #### Demo of the program with given sample inputs
 ![Output File] (https://drive.google.com/file/d/1VJRhjS0iPmMfBIN6bh-NDd_2xKPwV3X9/view?usp=sharing)
+Format: ![Alt Text](url)
 #### Basic Idea of the program
 Below explanation is based on the constraints: N<=2*M
 
