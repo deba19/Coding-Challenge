@@ -25,8 +25,7 @@ Write the following command after opening terminal in project folder
 ### Please note that, this program gives perfect output only when value of N (number of total players) is less than or equal to 2*M, i.e N<=2*M, (M denotes number of players in a team in one particular match)
 
 #### Demo of the program with given sample inputs
-![Output File] (https://drive.google.com/file/d/1VJRhjS0iPmMfBIN6bh-NDd_2xKPwV3X9/view?usp=sharing)
-Format: ![Alt Text](url)
+![Output1](images/outpu1.png)
 #### Basic Idea of the program
 Below explanation is based on the constraints: N<=2*M
 
